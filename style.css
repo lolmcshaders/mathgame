@@ -8,7 +8,7 @@ Get new fonts from https://fonts.google.com/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 *{
   padding: 0;
-  margin: auto;
+  margin: 0;
 }
 
 body{
