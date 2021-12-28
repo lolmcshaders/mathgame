@@ -14,6 +14,7 @@ Get new fonts from https://fonts.google.com/
 body{
   font-family: 'Luckiest Guy', cursive;
   background-color: #1313da;
+  border-radius: 10px ;
 }
 
 header{
