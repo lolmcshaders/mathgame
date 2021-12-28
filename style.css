@@ -79,7 +79,7 @@ nav a{
   box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.9);
   font-size: 5.2vw;
   background: #fff;
-  border-radius: 3px;
+  border-radius: 10px;
   text-align: center;
   margin: 10px 10px 0px 10px;
 }
@@ -99,7 +99,7 @@ nav a{
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  border-radius: 3px;
+  border-radius: 10px;
   margin-top: 10px;
   color: rgb(0, 0, 0);
   transition: 2s;
