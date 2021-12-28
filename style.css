@@ -17,7 +17,7 @@ body{
 }
 
 header{
-  background: #fedd49;
+  background: #9f7cff;
   border-radius: 10px ;
 }
 
@@ -29,7 +29,7 @@ header{
 
 .nav{
   overflow: hidden;
-  background:#ff3c3c;
+  background:#80ffb5;
   color: rgb(0, 0, 0);
   padding: 10px 0;
   
@@ -140,6 +140,10 @@ nav a{
   }
 
 }
+
+
+
+
 
 
 
